@@ -1,5 +1,7 @@
 # Smart Patient Assistant
 
+> **Project started on October 1, 2026**
+
 An ESP32-based smart patient-assistance project focused on scheduled dispensing/control, with an RTC-driven motor system as the current hardware stage.
 
 ## Current Status
